@@ -1,0 +1,1 @@
+jar cmfv Resources/manifest.mf Build/program.jar -C Classes/ .
